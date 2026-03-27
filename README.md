@@ -31,4 +31,4 @@ where users can input readings and get power source recommendations.
 | 🔴 Red | Load Shedding |
 
 ## Live App
-[https://your-username-energy-ui.streamlit.app] (https://energy1.streamlit.app/)
+https://energy1.streamlit.app/
